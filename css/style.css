@@ -20,6 +20,10 @@ body{
 	margin: 0 auto;
 }
 
+a{
+	text-decoration: none;
+}
+
 header{
 	background-color: #41455C;
 	width: 100%;
@@ -74,7 +78,6 @@ section.links{
 }
 
 section.links div{
-	text-decoration: none;
 	width: 60px;
 	height: 60px;
 	border-radius: 100%;
