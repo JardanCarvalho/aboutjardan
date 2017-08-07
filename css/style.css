@@ -91,25 +91,25 @@ section.links div.link-fb{
 
 section.links div.link-tt{
 	background-image: url('../images/tt.png');
-	background-size: 100% 100%;
+	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 section.links div.link-insta{
 	background-image: url('../images/inst.png');
-	background-size: 100% 100%;
+	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 section.links div.link-lkin{
 	background-image: url('../images/lkin.png');
-	background-size: 100% 100%;
+	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 section.links div.link-github{
 	background-image: url('../images/gh.png');
-	background-size: 100% 100%;
+	background-size: contain;
 	background-repeat: no-repeat;
 }
 
