@@ -78,6 +78,7 @@ section.links div{
 	height: 60px;
 	border-radius: 100%;
 	margin: 32px auto;
+	background-color: white;
 }
 
 section.links div.link-fb{
