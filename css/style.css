@@ -44,7 +44,6 @@ header div.image img{
 }
 
 section.text{
-	display: inline-block;
 	margin: 100px auto 0 auto;
 	width: 75%;
 	padding: 5% 15%;
@@ -75,7 +74,6 @@ section.links{
 }
 
 section.links div{
-	display: inline-block;
 	width: 60px;
 	height: 60px;
 	border-radius: 100%;
